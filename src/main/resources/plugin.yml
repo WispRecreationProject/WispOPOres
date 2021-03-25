@@ -1,0 +1,9 @@
+name: WispOPOres
+version: ${project.version}
+main: dev.yhdiamond.wispopores.WispOPOres
+api-version: 1.16
+author: YHDiamond
+commands:
+  wispopores:
+    usage: /wispopores <start/stop>
+    description: Starts the Wisp OP Ores challenge
